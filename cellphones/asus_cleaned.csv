@@ -1,0 +1,632 @@
+name,cpu,ram,gpu,storage,screen_size,screen_resolution,screen_tech,battery,os,color,price,rating,review_text
+Laptop ASUS TUF Gaming F16 FX607VJ-RL034W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)","2 khe (1 x 16GB, nâng cấp tối đa 64GB)","NVIDIA GeForce RTX 3050 6GB GDDR6
+Intel Iris Xe Graphics","512GB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu NTSC 45%
+Màn hình chống chói","56WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,22.490.000₫,,
+Laptop ASUS Vivobook S 14 FLIP TP3402VA-LZ632W,"Intel Core i5-13420H 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 lõi, 12 luồng)",8GB DDR4 on board + 8GB DDR4 SO-DIMM (Có thể nâng cấp; Cần tháo vỏ dưới/trên),Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+TÜV Rheinland-certified
+With stylus support","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,19.990.000₫,,
+Laptop ASUS Gaming V16 V3607VU-RP343W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,"NVIDIA GeForce RTX 4050 6GB GDDR6 (194 AI TOPs)
+Intel Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Màn hình chống chói
+Độ sáng 300nits
+Độ phủ màu 45% NTSC","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,23.490.000₫,,
+Laptop ASUS TUF Gaming A15 FA506NCG-HN184W,"AMD Ryzen 7 7445HS 3.2GHz (22MB Cache, up to 4.7GHz, 6 lõi, 12 luồng)",2 khe (nâng cấp tối đa 64GB),"NVIDIA GeForce RTX 3050 4GB GDDR6 Up to 1675MHz at 60W (75W with Dynamic Boost)
+AMD Radeon Graphics","512GB PCIe 4.0 NVMe M.2 SSD )2 Khe cắm M.2 hỗ trợ cả SATA hoặc NVMe, tối đa 1TB)",15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu NTSC 45% / SRGB 62.5% / Adobe 47.34%
+Màn hình chống chói
+Adaptive-Sync","48WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,20.990.000₫,5 sao/ (1 đánh giá),lúc mua mình cài win chưa shop
+Laptop ASUS Gaming Vivobook 16X K3605VC-RP431W,"Intel Core i5-13420H 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 lõi, 12 luồng)",2 khe (8GB DDR4 on board + 8GB DDR4 SO-DIMM),"NVIDIA Geforce RTX 3050 4GB GDDR6
+Intel UHD Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,19.490.000₫,5 sao/ (4 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | dùng rất tốt nha , dù chỉ 1 quạt nhưng rất mát mẻ ok || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | sản phẩm rất tốt, giá thành cũng tốt, mặc dù em nó có một quạt nhưng rất mát || từng mua góp ở nhiều shop lớn. nhưng trải nghiệm mua ở cellphoneS thấy bị hụt hẫng || cứ nghĩ mua máy sẽ được dán màn chống trầy nhưng ko được. thua nhiều shop lớn"
+Laptop ASUS Vivobook 15 X1502VA-BQ885W,"Intel Core i5-13420H 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 lõi, 12 luồng)","2 khe (8GB DDR4 on board + 8GB DDR4 SO-DIMM, Có thể nâng cấp; Cần tháo vỏ dưới/trên)",Intel HD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,15.390.000₫,,
+Laptop ASUS TUF Gaming F16 FX607VU-RL045W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",2x SO-DIMM (Tối đa 64GB),"NVIDIA GeForce RTX 4050 6GB GDDR6 (194 AI TOPs) 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)
+Intel Iris Xe Graphics","512GB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,1920 x 1200 pixels (FullHD+),"Độ sáng 300nits
+Độ phủ màu 45%
+Màn hình chống chói
+G-Sync","56WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home,Xám,26.990.000₫,5 sao/ (1 đánh giá),"sản phẩm rất chất lượng , bảo hành uy tính cho 5 sao"
+Laptop ASUS TUF Gaming F16 FX608JMR-RV048W,"Intel Core i7 14650HX 2.2 GHz (30MB Cache, up to 5.2 GHz, 16 lõi, 24 luồng)","2 khe (1x 16GB, nâng cấp tối đa 32GB)","NVIDIA GeForce RTX 5060 8GB GDDR7 115W (100W+15W)
+Intel UHD Graphics",1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 tối đa 2TB),16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Độ phủ màu NTSC 72.00%, SRGB 100.00%, Adobe 75.35%
+Màn hình chống chói
+G-Sync","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,37.990.000₫,5 sao/ (1 đánh giá),dòng này ở bên laptopword bán có 35tr59.bên đây bán mắc vãi
+Laptop ASUS Vivobook S14 S3407QA-SF043WS,"Snapdragon X X1 26 100 (30MB Cache, up to 2.97GHz, 8 lõi, 8 luồng)",LPDDR5X Onboard,Qualcomm Adreno GPU,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels,"Độ sáng 300 nits
+Độ phủ màu 95% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+1.07 tỷ màu
+Màn hình chống chói
+giảm 70% ánh sáng xanh có hại
+Được chứng nhận bởi TÜV Rheinland","70WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,18.990.000₫,5 sao/ (1 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | mới mua máy chip x1-26. Nhân viên chi nhánh 288 3/2 nhiệt tình. Mình mua để hỗ trợ việc dạy học di chuyển nhiều cần laptop nhẹ nhưng vẫn đủ mạnh để chạy phần mềm class-in, pin trâu với loa lớn để khỏi đem cồng kềnh nhiều thứ. Pin máy này siêu trâu luôn mình đi dạy ở ngoài gần 7 tiếng thì lúc về nhà máy vẫn còn hơn 40%. bàn phím gõ cũng thoải mái, ít bám vân tay. Màn đẹp nè, xem phim siêu đã, cam bao sắc nét có nhiều chế độ AI để chỉnh. Nói chung ai dân văn phòng ngôn ngữ như mình có thể cân nhắc module này để tiết kiệm hơn"
+Laptop ASUS Vivobook 14 M1405NAQ-LY011W,"AMD Ryzen 7 170 3.2GHz (20MB Cache, up to 4.75 GHz, 8 lõi, 16 luồng)","2 khe (8GB DDR5 on board + 8GB DDR5 SO-DIMM, Có thể nâng cấp; Cần tháo vỏ dưới/trên)",AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Độ phủ màu 45% NTSC
+Bề mặt màn hình chống loá
+Chứng nhận TÜV Rheinland","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,16.990.000₫,,
+Laptop ASUS Zenbook 14 UM3406KA-PP113WS,"AMD Ryzen AI 7 350 2.0GHz (24MB Cache, up to 5.0GHz, 8 lõi, 16 luồng)",Onboard,AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Độ sáng 400nits
+Độ sáng đỉnh HDR 600nits
+Độ phủ màu 100% DCI-P3
+VESA CERTIFIED Display HDR True Black 600
+1.07 tỷ màu
+Ánh sáng xanh ít gây hại hơn 70%
+TÜV Rheinland-certified
+SGS Eye Care Display","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Đen,25.390.000₫,,
+Laptop ASUS Vivobook 15 X1502VA-BQ886W,"Intel Core i7-13620H 2.4 GHz (24MB Cache, up to 4.9 GHz, 10 cores, 16 Threads)",8GB DDR4 on board + 8GB DDR4 SO-DIMM (Có thể nâng cấp; Cần tháo vỏ dưới/trên),Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Màn hình chống chói
+Độ phủ màu 45% NTSC
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,16.990.000₫,,
+Laptop ASUS Vivobook Go 14 E1404FA-EB482W,"AMD Ryzen 5 7520U 2.8GHz (6MB Cache, up to 4.3GHz, 4 lõi, 8 luồng)",LPDDR5 Onboard,AMD Radeon Graphics,512GB M.2 NVMe PCIe 3.0 SSD,14 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250 nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,13.890.000₫,,
+Laptop ASUS ROG Strix G16 G615JMR-S5155W,"Intel Core i7 14650HX 2.2 GHz (30MB Cache, up to 5.2 GHz, 16 lõi, 24 luồng)",2x SO-DIMM (Tối đa 64GB),"NVIDIA GeForce RTX 5060 8GB GDDR7
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Độ sáng 500nits
+Độ phủ màu DCI-P3 100%
+Màn hình chống chói
+G-Sync
+ROG Nebula Display
+Dolby Vision HDR
+ROG intelligent cooling","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,44.490.000₫,,
+Laptop ASUS Vivobook S16 S5606CA-RI171WS,"Intel Core Ultra 7 255H 2.0 GHz (24MB Cache, up to 5.1 GHz, 16 lõi, 16 luồng); Intel AI Boost NPU up to 13TOPS",LPDDR5X Onboard,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,2880 x 1800 pixels,"Độ sáng 400nits
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+Ánh xạ gam màu
+HDR True Black 600
+1.07 tỷ màu
+Ít hơn 70% ánh sáng xanh có hại
+TÜV Rheinland","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xanh,27.990.000₫,,
+Laptop ASUS Vivobook 15 OLED A1505VA-L1688W,"Intel Core i7-13620H 2.4 GHz (24MB Cache, up to 4.9 GHz, 10 lõi, 16 luồng)",2 khe (8GB DDR4 on board + 8GB DDR4 SO-DIMM),Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Thời gian phản hồi 0.2ms
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+Gamut mapping
+HDR True Black 600
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+Được chứng nhận bởi TÜV Rheinland
+Màn hình chăm sóc mắt SGS","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,19.190.000₫,,
+Laptop ASUS Gaming V16 V3607VM-RP044W,"Intel Core 7 240H 2.5 GHz (24MB Cache, up to 5.2 GHz, 10 lõi, 16 luồng)","2 khe (1x 16GB, nâng cấp tối đa 32GB)","NVIDIA GeForce RTX 5060 8GB GDDR7
+Intel Graphics",1TB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,33.990.000₫,,
+Laptop ASUS ROG Flow Z13 GZ302EA-RU145WS,"AMD Ryzen AI MAX+ 395 3.0GHz (80MB Cache, up to 5.1GHz, 16 lõi, 32 luồng)",LPDDR5X 8000 On board,AMD Radeon Graphics,1TB PCIe 4.0 NVMe M.2 SSD (2230),13.4 inches,2560 x 1600 (WQXGA),"Độ sáng 500nits
+Độ phủ màu DCI-P3 100%
+ROG Nebula Display
+Support Dolby Vision HDR","70WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Đen,86.990.000₫,,
+Laptop ASUS Vivobook Go 15 E1504GA-BQ1141W,"Intel Core i3-N305 1.8 GHz (6MB Cache, up to 3.8 GHz, 8 lõi, 8 luồng)",DDR4 Onboard,Intel UHD Graphics,256G UFS 2.1,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,9.990.000₫,,
+Laptop ASUS Vivobook 16 A1607QA-MB067WS,"Snapdragon X X1 26 100 (30MB Cache, up to 2.97GHz, 8 lõi, 8 luồng)",LPDDR5X Onboard,"Qualcomm Adreno GPU
+Tiến trình chip mới nên có thể không kết nối được với các thiết bị có driver cũ",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Bạc,16.290.000₫,,
+Laptop ASUS Gaming V16 V3607VH-RP025W,"Intel Core 7 240H 2.5 GHz (24MB Cache, up to 5.2 GHz, 10 lõi, 16 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,"NVIDIA GeForce RTX 5050 8GB GDDR7
+Intel Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Màn hình chống chói
+Độ phủ màu 45% NTSC","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,26.990.000₫,,
+Laptop ASUS Zenbook A14 UX3407QA-QD299WS,"Snapdragon X X1 26 100 (30MB Cache, up to 2.97GHz, 8 lõi, 8 luồng)",Onboard,"Qualcomm Adreno GPU
+Tiến trình chip mới nên có thể không kết nối được với các thiết bị có driver cũ",512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+HDR True Black 600
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified
+Màn hình chăm sóc mắt SGS","70WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Be,27.490.000₫,,
+Laptop ASUS Vivobook S16 S3607CA-SH083WS,"Intel Core Ultra 7 255H 2.0 GHz (24MB Cache, up to 5.1 GHz, 16 lõi, 16 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels,"Độ sáng 300 nits
+Độ sáng tối đa 500 nits
+Độ phủ màu 95% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+1.07 tỷ màu
+Màn hình chống chói
+Ánh sáng xanh thấp, giảm 70% ánh sáng xanh có hại","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,25.490.000₫,,
+Laptop ASUS Vivobook Go 15 E1504FA-BQ1150W,"AMD Ryzen 5 7520U 2.8GHz (6MB Cache, up to 4.3GHz, 4 lõi, 8 luồng)",LPDDR5 Onboard,AMD Radeon Graphics,512GB M.2 NVMe PCIe 3.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,13.990.000₫,,
+Laptop ASUS Vivobook 14 X1404VA-EB355W,"Intel Core 7 150U 1.8 GHz (12MB Cache, up to 5.4 GHz, 10 lõi, 12 luồng)","2 khe (8GB DDR5 on board + 8GB DDR5 SO-DIMM, Có thể nâng cấp; Cần tháo vỏ dưới/trên)",Intel Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250 nits
+Độ phủ màu 45% NTSC
+Bề mặt màn hình chống loá
+Chứng nhận TÜV Rheinland","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,19.790.000₫,,
+Laptop ASUS Vivobook 14 X1404VA-NK394W,"Intel Core i3-1315U 1.2 GHz (10MB Cache, up to 4.5 GHz, 6 lõi, 8 luồng)","8GB On board (Có thể nâng cấp, cần tháo vỏ dưới/trên)",Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,11.990.000₫,5 sao/ (1 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | pin trâu, máy đẹp, hiệu năng mượt nếu sử dụng cho sinh viên và văn phòng"
+Laptop ASUS ROG Zephyrus G14 GA403WM-QS051WS,"AMD Ryzen AI 9 HX 370 2.0GHz (36MB Cache, up to 5.1GHz, 12 lõi, 24 luồng)",LPDDR5X 7500 Onboard,"NVIDIA GeForce RTX 5060 8GB GDDR7
+AMD Radeon Graphics","1TB PCIe 4.0 NVMe M.2 SSD (1 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",14 inches,2880 x 1800 pixels,"Độ sáng 500nits
+Tỷ lệ tương phản 1000000:1
+Độ phủ màu DCI-P3 100%
+G-Sync / Adaptive-Sync
+Màn hình Nebula ROG Nebula Display
+Dolby Vision HDR
+Tản nhiệt thông minh ROG","73WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,55.990.000₫,,
+Laptop ASUS Vivobook 16X K3605VC-RP491W,"Intel Core i7-13620H 2.4 GHz (24MB Cache, up to 4.9 GHz, 10 lõi, 16 luồng)",2 khe (8GB DDR4 on board + 8GB DDR4 SO-DIMM),"NVIDIA GeForce RTX3050 4GB GDDR6
+Intel UHD Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,21.490.000₫,,
+Laptop ASUS Zenbook 14 UM3406KA-PP590WS,"AMD Ryzen AI 7 350 2.0GHz (24MB Cache, up to 5.0GHz, 8 lõi, 16 luồng)",LPDDR5X Onboard,AMD Radeon Graphics,1TB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Độ sáng 400nits
+Độ sáng cực đại 600nits HDR
+Độ phủ màu 100% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+HDR True Black 600
+1.07 tỷ màu
+Ánh sáng xanh thấp ít hơn 70%
+TÜV Rheinland
+Màn hình chăm sóc mắt SGS","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Đen,29.990.000₫,,
+Laptop ASUS ROG Strix G16 G614PH-S5101W,"AMD Ryzen 9 8940HX 2.4GHz (80MB Cache, up to 5.3GHz, 16 lõi, 32 luồng)","2 khe (1 x 16GB, nâng cấp tối đa 64GB)","NVIDIA GeForce RTX 5050 8GB GDDR7
+AMD Radeon Graphics","512GB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ cả SATA hoặc NVMe, tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Độ sáng 500 nits
+Tỷ lệ tương phản 1200:1
+Độ phủ màu DCI-P3 100%
+Màn hình chống chói
+Công nghệ Adaptive-Sync G-Sync
+Chứng nhận Pantone Validated
+ROG Nebula Display
+Dolby Vision HDR
+Tản nhiệt ROG Intelligent Cooling","90WHrs, 4S1P, 4-cell Li-ion, Sạc từ 0-50% trong 30 phút",Windows 11 Home,Xám,40.990.000₫,,
+Laptop ASUS TUF Gaming F16 FX608JHR-RV037W,"Intel Core i7 14650HX 2.2 GHz (30MB Cache, up to 5.2 GHz, 16 lõi, 24 luồng)","2 khe (1 x 16GB, nâng cấp tối đa 32GB)","NVIDIA GeForce RTX 5050 8GB GDDR7 115W (100W+15W)
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Độ phủ màu NTSC 72.00%, SRGB 100.00%, Adobe 75.35%
+Màn hình chống chói
+G-Sync","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,34.290.000₫,,
+Laptop ASUS Vivobook S14 S3407VA-LY046W,"Intel Core i5-13420H 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 lõi, 12 luồng)",2 khe (8GB DDR5 on board + 8GB DDR5 SO-DIMM,Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Bạc,17.990.000₫,5 sao/ (5 đánh giá),Cách phục vụ tốt || Cách phục vụ tốt || Cách phục vụ tốt || Hài lòng || Hài lòng
+Laptop ASUS TUF Gaming A14 FA401KM-RG010WS,"AMD Ryzen AI 7 350 2.0GHz (24MB Cache, up to 5.0GHz, 8 lõi, 16 luồng)",2 x 16GB LPDDR5X 7500 on board,"NVIDIA GeForce RTX 5060 8GB GDDR7
+AMD Radeon Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",14 inches,2560 x 1600 (WQXGA),"Độ sáng 400nits
+Tỷ lệ tương phản 1000:1
+Độ phủ màu SRGB 100,00%
+Màn hình chống chói
+G-Sync","73WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,42.990.000₫,,
+Laptop ASUS Zenbook 14 UX3405CA-PZ187WS,"Intel Core Ultra 5 225H 1.7 GHz (18MB Cache, up to 4.9 GHz, 14 lõi, 16 luồng)",LPDDR5X on board,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 500nits HDR
+Độ phủ màu 100% DCI-P3
+Gamut mapping
+HDR True Black 500
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified
+Màn hình chăm sóc mắt SGS","75WHrs, 2S2P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xanh,28.490.000₫,,
+Laptop ASUS Zenbook S 16 UM5606KA-RK127WS,"AMD Ryzen AI 7 350 2.0GHz (24MB Cache, up to 5.0GHz, 8 lõi, 16 luồng)",LPDDR5X Onboard,AMD Radeon Graphics,1TB M.2 NVMe PCIe 4.0 SSD,16 inches,2880 x 1800 pixels,"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 500nits HDR
+Độ phủ màu 100% DCI-P3
+HDR True Black 500
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified
+SGS Eye Care Display","78WHrs, 2S2P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Trắng,39.990.000₫,,
+Laptop ASUS TUF Gaming F16 FX608JH-RV039W,"13th Gen Intel Core i5-13450HX 2.4 GHz (20M Cache, up to 4.6 GHz, 10 lõi: 6 P-cores and 4 E-cores)",2 khe (Nâng cấp tối đa 64GB),"NVIDIA GeForce RTX 5050 8GB GDDR7
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300
+Tỷ lệ tương phản 1000:1
+Độ phủ màu NTSC 72,00% / SRGB 100,00% / Adobe 75,35%
+Màn hình chống chói
+G-Sync","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,30.990.000₫,,
+Laptop ASUS TUF Gaming F16 FX607VJB-RL151W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",2 khe (nâng tối đa 64GB),"NVIDIA GeForce RTX 3050 6GB GDDR6
+Intel Iris Xe Graphics","512GB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ cả SATA hoặc NVMe, tối đa 2TB)",16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Tỷ lệ tương phản 1000:1
+Độ phủ màu NTSC 45%
+Màn hình chống chói","56WHrs, 4S1P, 4-cell Li-ion
+Sạc từ 0-50% trong 30 phút",Windows 11 Home,Xám,22.990.000₫,,
+Laptop ASUS Gaming V16 V3607VU-RP216W,"Intel Core 7 240H 2.5 GHz (24MB Cache, up to 5.2 GHz, 10 lõi, 16 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,"NVIDIA GeForce RTX 4050 6GB GDDR6 (194 AI TOPs)
+Intel Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Màn hình chống chói
+Độ phủ màu 45% NTSC","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,25.490.000₫,,
+Laptop ASUS Vivobook S 16 S5606CA-RI114WS,"Intel Core Ultra 5 225H 1.7 GHz (18MB Cache, up to 4.9 GHz, 14 lõi, 16 luồng)",LPDDR5X Onboard,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,2880 x 1800 pixels,"Độ sáng 400nits
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+Gamut mapping
+Display HDR True Black 600
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xanh,24.490.000₫,,
+Laptop ASUS Vivobook 14 X1404VA-EB509W,"Intel Core i3-1315U 1.2 GHz (10MB Cache, up to 4.5 GHz, 6 lõi, 8 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1080 pixels (FullHD),"Màn hình chống chói
+Độ sáng 250nits
+Độ phủ màu 45% NTSC","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,11.990.000₫,,
+Laptop ASUS Gaming V16 V3607VU-RP290W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,"NVIDIA GeForce RTX 4050 6GB GDDR6 (194 AI TOPs)
+Intel Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,22.990.000₫,,
+Laptop ASUS TUF Gaming F16 FX608JH-RV131W,"Intel Core i5-13450HX 2.4 GHz (20M Cache, up to 4.6 GHz, 10 lõi: 6 P-cores and 4 E-cores)","2 khe (2 x 16GB, nâng cấp tối đa 64GB)","NVIDIA GeForce RTX 5050 8GB GDDR7
+Intel UHD Graphics","512GB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ cả SATA hoặc NVMe, tối đa 2TB)",16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Tỷ lệ tương phản 1000:1
+Độ phủ màu NTSC 72% / sRGB 100% / Adobe 75.35%
+Màn hình chống chói
+G-Sync","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,30.990.000₫,,
+Laptop ASUS Zenbook 14 UX3405CA-PZ188WS,"Intel Core Ultra 7 255H 2.0 GHz (24MB Cache, up to 5.1 GHz, 16 lõi, 16 luồng)",LPDDR5X on board,Intel Arc Graphics,1TB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 500nits HDR
+Độ phủ màu 100% DCI-P3
+Gamut mapping
+HDR True Black 500
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified
+Màn hình chăm sóc mắt SGS","75WHrs, 2S2P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xanh,33.990.000₫,,
+Laptop ASUS Vivobook S14 S3407VA-LY146W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",2 khe (8GB DDR5 Onboard + 8GB DDR5 SO-DIMM),Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Màn hình chống chói
+Độ sáng 300nits
+Độ phủ màu 45% NTSC","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Bạc,17.990.000₫,,
+Laptop ASUS Gaming V16 V3607VH-RP024W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,"NVIDIA GeForce RTX 5050 8GB GDDR7
+Intel Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,26.690.000₫,,
+Laptop ASUS Vivobook 15 OLED A1505VA-MA505W,"Intel Core i5-13420H 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 lõi, 12 luồng)",2 khe (8GB DDR4 Onboard + 8GB DDR4 SO-DIMM),Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,2880 x 1620 pixels,"Độ sáng 600nits HDR
+Độ phủ màu 100% DCI-P3
+Ánh xạ gam màu
+Tỷ lệ tương phản 1.000.000:1
+HDR True Black 600
+1.07 tỷ màu
+Ánh sáng xanh thấp ít hơn 70%
+TÜV Rheinland
+Màn hình chăm sóc mắt SGS","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,17.490.000₫,,
+Laptop ASUS ROG Strix G16 G615LR-S5289W,"Intel Core Ultra 7 255HX 2.4 GHz (30MB Cache, up to 5.2 GHz, 20 lõi, 20 luồng)",2 khe (nâng cấp tối đa 64GB),"NVIDIA GeForce RTX 5070 Ti 12GB GDDR7 ROG Boost: 1565MHz* at 140W (1515MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ cả SATA hoặc NVMe, tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Thời gian phản hồi 3ms
+Độ sáng 500nit
+Tỷ lệ tương phản 1200:1
+Độ phủ màu DCI-P3 100%
+Màn hình chống chói
+G-Sync
+ROG Nebula Display
+Hỗ trợ Dolby Vision HDR
+Tản nhiệt thông minh ROG","90WHrs, 4S1P, 4-cell Li-ion, Sạc từ 0-50% trong 30 phút",Windows 11 Home,Xám,55.990.000₫,,
+Laptop ASUS Vivobook 15 X1504VA-BQ165W,"Intel Core 5 120U 1.4 GHz (12MB Cache, up to 5.0 GHz, 10 lõi, 12 luồng)","2 khe (8GB DDR4 Onboard + 8GB DDR4 SO-DIMM,Có thể nâng cấp; Cần tháo vỏ dưới/trên)",Intel Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,16.790.000₫,,
+Laptop ASUS Vivobook S 16 OLED M5606KA-RI016WS,"AMD Ryzen AI 7 350 2.0GHz (24MB Cache, up to 5.0GHz, 8 lõi, 16 luồng)",Onboard,AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,2880 x 1800 pixels,"Độ sáng 400nits
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+Gamut mapping
+Display HDR True Black 500
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Đen,28.890.000₫,,
+Laptop ASUS Vivobook 14 M1405NAQ-LY010W,"AMD Ryzen 5 150 3.3GHz (18MB Cache, up to 4.55 GHz, 6 lõi, 12 luồng)","2 khe (8GB DDR5 on board + 8GB DDR5 SO-DIMM, Có thể nâng cấp; Cần tháo vỏ dưới/trên)",AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+Chứng nhận TÜV Rheinland","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,15.990.000₫,,
+Laptop ASUS TUF Gaming F16 FX608JPR-RV044W,"Intel Core i7 14650HX 2.2 GHz (30MB Cache, up to 5.2 GHz, 16 lõi, 24 luồng)","2 khe (1 x 16GB, nâng cấp tối đa 64GB)","NVIDIA GeForce RTX 5070 8GB GDDR7
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, nâng cấp tối đa 2TB)",16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Tỷ lệ tương phản 1000:1
+Độ phủ màu NTSC 72.00% / SRGB 100.00% / Adobe 75.35%
+Màn hình chống chói
+G-Sync","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,40.690.000₫,,
+Laptop ASUS Vivobook S14 M3407KA-SF032WS,"AMD Ryzen AI 7 350 2.0GHz (24MB Cache, up to 5.0GHz, 8 lõi, 16 luồng)",2 khe (16GB Onboard + 16GB DDR5 SO-DIMM),AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Độ phủ màu 95% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+1.07 tỷ màu
+Màn hình chống chói","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Bạc,24.790.000₫,5 sao/ (1 đánh giá),Thời lượng pin Khoẻ | Hiệu năng Ổn định | Chất lượng hiển thị của màn hình Màu sắc hiển thị chuẩn | Máy có vẻ không nhạy lắm
+Laptop ASUS Gaming VivoBook K3605ZF-RP634W,"Intel Core i5-12500H 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E cores)",(8GB DDR4 on board + 8GB DDR4 SO-DIMM),NVIDIA GeForce RTX 2050 4GB GDDR6,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,16.990.000₫,5 sao/ (5 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Máy này nào có hàng vậy shop || Good || Good || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Máy hiệu năng tốt, mỏng nhẹ || Thời lượng pin Khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Màu sắc hiển thị chuẩn | Dùng học IT, xem phim ok và chơi csgo, genshin mượt mà"
+Laptop ASUS Vivobook S14 S3407VA-LY053W,"Intel Core i7-13620H 2.4 GHz (24MB Cache, up to 4.9 GHz, 10 lõi, 16 luồng)",DDR5 SO-DIMM Onboard,Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Bạc,20.990.000₫,,
+Laptop ASUS Vivobook S16 S3607VA-RP056W,"Intel Core i7-13620H 2.4 GHz (24MB Cache, up to 4.9 GHz, 10 lõi, 16 luồng)","2 khe (8GB DDR5 Onboard + 8GB DDR5 SO-DIMM, Có thể nâng cấp; Cần tháo vỏ dưới/trên)",Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Màn hình chống chói
+Độ sáng 300nits
+Độ phủ màu 45% NTSC","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Bạc,20.990.000₫,,
+Laptop ASUS Vivobook S14 S5406SA-PP168WS,"Intel Core Ultra 5 226V 16GB 2.1 GHz (8MB Cache, up to 4.5 GHz, 8 lõi, 8 luồng)",LPDDR5X 16GB,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Độ sáng 400 nits
+Độ sáng tối đa 600 nits HDR
+Độ phủ màu 100% DCI-P3
+Ánh xạ gam màu
+Tỷ lệ tương phản 1.000.000:1
+Màn hình HDR được chứng nhận VESA
+HDR True Black 600
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Đen,25.990.000₫,,
+Laptop ASUS ROG Strix G16 G615JPR-S5107W,"Intel Core i7 14650HX 2.2 GHz (30MB Cache, up to 5.2 GHz, 16 lõi, 24 luồng)","2 khe (2 x 16GB, tối đa 64GB)","NVIDIA GeForce RTX 5070 8GB GDDR7
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Độ sáng 500nits
+Độ phủ màu DCI-P3 100%
+Màn hình chống chói
+G-Sync
+ROG Nebula Display
+Dolby Vision HDR
+ROG intelligent cooling","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,48.990.000₫,,
+Laptop ASUS ROG Strix G18 G815LP-S9102W,"Intel Core Ultra 9 275HX 2.7 GHz (36MB Cache, up to 5.4 GHz, 24 lõi, 24 luồng)","2 khe (2 x 16GB, nâng cấp tối đa 64GB)","NVIDIA GeForce RTX 5070 8GB GDDR7
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ cả SATA hoặc NVMe, tối đa 2TB)",18 inches,2560 x 1600 (WQXGA),"Thời gian phản hồi (G2G) 3ms
+Góc nhìn 170
+Độ sáng 500 nits
+Tỷ lệ tương phản 1000:1
+Độ phủ màu DCI-P3 100%
+Chống chói
+G-Sync
+Màn hình ROG Nebula
+Hỗ trợ Dolby Vision HDR
+Tản nhiệt thông minh ROG","90WHrs, 4S1P, 4-cell Li-ion, Sạc từ 0-50% trong 30 phút",Windows 11 Home,Xám,56.990.000₫,,
+Laptop ASUS ZenBook 14 UM3406GA-QD073WS,AMD Ryzen AI 7 445,LPDDR5X on board,AMD Radeon Graphics,1TB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 600nits (độ sáng tối đa HDR)
+Độ phủ màu 100% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+True Black 600
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+Màn hình SGS Eye Care","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Đen,33.590.000₫,,
+Laptop ASUS Vivobook S14 S3407CA-LY096WS,"Intel Core Ultra 7 255H 2.0 GHz (24MB Cache, up to 5.1 GHz, 16 lõi, 16 luồng)",DDR5 Onboard,Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,23.890.000₫,,
+Laptop ASUS ZenBook 14 UM3406GA-QD075WS,AMD Ryzen AI 7 445,LPDDR5X on board,AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 600nits (độ sáng tối đa HDR)
+Độ phủ màu 100% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+True Black 600
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+Màn hình SGS Eye Care","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Đen,27.290.000₫,,
+Laptop ASUS Vivobook S16 S3607QA-SH040WS,"Snapdragon X X1 26 100 (30MB Cache, up to 2.97GHz, 8 lõi, 8 luồng)",LPDDR5X Onboard,Qualcomm Adreno GPU,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Độ phủ màu 95% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+1.07 tỷ màu
+Màn hình chống chói
+giảm 70% ánh sáng xanh có hại
+Được chứng nhận bởi TÜV Rheinland","70WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,19.690.000₫,,
+Laptop ASUS Vivobook 15 X1504ZA-NJ517W,"Intel Core i5-1235U (1.3 GHz, 12M Cache, up to 4.4 GHz, 10 lõi)",2 khe (8GB DDR4 Onboard + 8GB DDR4 SO-DIMM),Intel Iris Xe Graphics,512GB M.2 NVMe PCIe 3.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,13.190.000₫,4.8 sao/ (8 đánh giá),"Khi mua laptop đc tặng sim nhưng cửa hàng ko có sẵn nên bạn sale đã hẹn 2 ngày giao nhưng đến nay đã là 7 ngày rồi vẫn ko thấy nhận được. Cần xem xét lại giúp em || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | asjdflasvjlcsadfasdf || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | test đánh giá thôi nhé || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Test chức năng để làm website, nhưng vẫn đánh giá 5 sao :V || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Đẹp, gọn dễ nhìn. Nv thân thiện"
+Laptop ASUS Vivobook S14 S3407CA-LY095WS,"Intel Core Ultra 5 225H 1.7 GHz (18MB Cache, up to 4.9 GHz, 14 lõi, 16 luồng)",DDR5 Onboard,Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,21.590.000₫,,
+Laptop ASUS Vivobook S14 M3407KA-SF034WS,AMD Ryzen AI 5 330,DDR5 Onboard,AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300 nits
+Độ phủ màu 95% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+1.07 tỷ màu
+Màn hình chống chói","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Bạc,22.490.000₫,,
+Laptop ASUS Vivobook S16 S3607CA-SH082WS,"Intel Core Ultra 5 225H 1.7 GHz (18MB Cache, up to 4.9 GHz, 14 lõi, 14 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels,"Độ sáng 300 nits
+Độ sáng tối đa 500 nits
+Độ phủ màu 95% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+1.07 tỷ màu
+Màn hình chống chói
+Ánh sáng xanh thấp, giảm 70% ánh sáng xanh có hại","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,22.990.000₫,,
+Laptop ASUS Vivobook 14 A1407CA-LY008WS,"Intel Core Ultra 5 225H 1.7 GHz (18MB Cache, up to 4.9 GHz, 14 lõi, 16 luồng)",DDR5 on board,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 400nits
+Độ phủ màu 100% sRGB
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Bạc,19.090.000₫,,
+Laptop ASUS ROG Strix G18 G815LM-S9088W,"Intel Core Ultra 9 275HX 2.7 GHz (36MB Cache, up to 5.4 GHz, 24 lõi, 24 luồng)","2 khe (2 x 16GB, nâng cấp tối đa 64GB)","NVIDIA GeForce RTX 5060 8GB GDDR7
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ cả SATA hoặc NVMe, tối đa 2TB)",18 inches,2560 x 1600 (WQXGA),"Thời gian phản hồi (G2G) 3ms
+Góc nhìn 170
+Độ sáng 500 nits
+Tỷ lệ tương phản 1000:1
+Độ phủ màu DCI-P3 100%
+Chống chói
+G-Sync
+Màn hình ROG Nebula
+Hỗ trợ Dolby Vision HDR
+Tản nhiệt thông minh ROG","90WHrs, 4S1P, 4-cell Li-ion, Sạc từ 0-50% trong 30 phút",Windows 11 Home,Xám,50.990.000₫,,
+Laptop ASUS Vivobook S 15 S5507QA-MA092WS Copilot+ X Plus,Snapdragon X Plus X1P 42 100 up to 3.4GHz,LPDDR5X Onboard,"Qualcomm Adreno GPU
+Tiến trình chip mới nên có thể không kết nối được với các thiết bị có driver cũ",512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,2880 x 1620 pixels,"Thời gian phản hồi 0.2ms
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+1.07 tỷ màu
+Display HDR True Black 600
+TÜV Rheinland-certified
+SGS Eye Care Display
+Giảm 70% ánh sáng xanh có hại","70WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,19.990.000₫,5 sao/ (1 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | màn hình đẹp, loa hay, mượt. Chạy mượt mà và đáp ứng đủ các tác vụ văn phòng."
+Laptop ASUS ROG Strix G16 G614JV-N4369W,"Intel Core i7-13650HX 2.6 GHz 24M Cache, up to 4.9 GHz, 14 cores: 6 P-cores and 8 E-cores)","2 Khe SO-DIMM (1 x 16GB, tối đa 32GB)","NVIDIA GeForce RTX 4060 8GB GDDR6 (233 AI TOPs)
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, nâng cấp tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Thời gian phản hồi 3ms
+Độ sáng 500nits
+Độ phủ màu DCI-P3 100%
+Màn hình chống chói
+G-Sync
+ROG Nebula Display
+Dolby Vision HDR
+ROG intelligent cooling","90WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home,Xám,33.990.000₫,5 sao/ (3 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Cho hỏi khi nào hàng về vậy ạ || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Ngon, khoẻ, đẹp || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | 10d. đã sử dụng máy"
+Laptop ASUS Vivobook 15 X1504VA-BQ2076W,"Intel Core i5-1334U 1.3 GHz (12MB Cache, up to 4.6 GHz, 10 lõi, 12 luồng)",8GB DDR4 on board + 8GB DDR4 SO-DIMM,Intel Iris Xe Graphics,512GB M.2 NVMe PCIe 3.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,14.490.000₫,,
+Laptop ASUS Vivobook 15 OLED A1505VA-MA469W,"Intel Core i9-13900H 2.6 GHz (24MB Cache, up to 5.4 GHz, 14 lõi, 20 luồng)",8GB DDR4 on board + 8GB DDR4 SO-DIMM,Intel Iris Xe Graphics,512GB M.2 NVMe PCIe 3.0 SSD,15.6 inches,2880 x 1620 pixels,"Tỷ lệ 16:9
+Thời gian phản hồi 0.2 ms
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+HDR True Black 600
+1.07 tỷ màu
+Giảm ánh sáng xanh
+SGS Eye Care Display
+Gamut mapping
+Pantone","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,19.990.000₫,,
+Laptop ASUS TUF Gaming A15 FA507NUR-LP101W,"AMD Ryzen 7 7435HS 3.1GHz (20MB Cache, up to 4.5 GHz, 8 cores, 16 Threads)",2x SO-DIMM slots (Nâng cấp tối đa 32GB),NVIDIA GeForce RTX 4050 6GB GDDR6,512GB PCIe 4.0 NVMe M.2 SSD (Nâng cấp tối đa 2TB),15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu NTSC 72%, SRGB 100%, Adobe 75.35%
+Màn hình chống chói
+G-Sync","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,22.990.000₫,5 sao/ (3 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | sản phẩm tốt gia rẻ , nhân viên nhiệt tình || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Máy ngon lắm rất đáng tiền || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Tốt nhất trong tầm giá"
+Laptop ASUS Vivobook 14 OLED A1405ZA-KM264W,"Intel Core i5-12500H 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E lõi)",8GB DDR4 on board + 8GB DDR4 SO-DIMM,Intel Iris Xe Graphics,512GB M.2 NVMe PCIe 3.0 SSD,14 inches,2880 x 1800 pixels,"Tỷ lệ 16:10
+Thời gian phản hồi 0.2 ms
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3
+HDR True Black 600
+1.07 tỷ màu
+Giảm ánh sáng xanh
+SGS Eye Care Display
+Gamut mapping
+Pantone","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,14.990.000₫,5 sao/ (10 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Em đã được bảo hành máy mới, sử dụng oke || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Máy thì ngon đấy. Mà k có đèn bán phím. Chán ghê || Nhân viên vui vẻ hòa đồng tư vấn nhiệt tình || Nhân viên vui vẻ hòa đồng tư vấn nhiệt tình || Nhân viên vui vẻ hòa đồng tư vấn nhiệt tình"
+Laptop ASUS Expertbook B1402CBA-NK2669W,"Intel Core i5-1235U (1.7 GHz, 12M Cache, up to 4.4 GHz, 12 lõi)",DDR4 Onboard,Intel UHD Graphics,512GB M.2 2280 NVMe PCIe 4.0 SSD,14 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250 nits
+Độ phủ màu NTSC: 45%
+Màn hình chống chói
+Tỷ lệ tương phản 500:1","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,13.290.000₫,5 sao/ (5 đánh giá),"Thời lượng pin Khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | sài bây giờ vẫn rất ok và mượt game thì không biết nhưng chạy đa nhiệm || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Nhân viên hỗ trợ nhiệt tình, mình không chọn lấy quà tặng, và sử dụng các hình thức thanh toán VNpay. Giá cuối mua với giá 12tr310 cho máy i5 14inch ram 16gb thì đây là một mức giá tốt trong phân khúc, có dịp sẽ mua thêm những sp khác. Cảm ơn CellphoneS Tân Kỳ Tân Qúy hỗ trợ! || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | nv nhiệt tình , phục vụ nhanh chu đáo , good || Thời lượng pin Khoẻ | Hiệu năng Giật lag | Chất lượng hiển thị của màn hình Màu sắc hiển thị chuẩn | XÀI NÓ LÂU LÂU BỊ GIẬT LAG NẾU CÓ CHƠI GAME NHẸ NHƯ LOL HAY VALORANT HAY MINECRAFT ROBLOX NÓ SẼ BỊ ĐỨNG HÌNH KO SỬ DỤNG ĐƯỢC || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Rải nghiệt rất tốt"
+Laptop ASUS Vivobook 14 X1404ZA-NK386W,"Intel Core i3-1215U 6 Nhân, 8 Luồng","1 x DDR4 on board slot (Đã sử dụng)
+Còn trống 1 x DDR4 SO-DIMM slot",Intel UHD Graphics,"512GB SSD M.2 NVMe PCIe 3.0
+1x M.2 2280 PCIe 4.0x4 (Đã sử dụng)",14 inches,1080 x 1920 pixels (FullHD),"Tỷ lệ khung hình 16:9
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+Đèn nền LED","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 home,Xanh,8.990.000₫,5 sao/ (4 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Huỷ WN*****188 || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Sản phẩm tốt, cấu hình đủ dùng, chất lượng ngon, vừa đủ nhu cầu sử dụng trong tầm giá, phù hợp cho học sinh sinh viên hoặc nhân viên văn phòng. Nhờ có Cellphones mà mình biết được mã này, quá là tuyệt vời. || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | sản phẩm và chất lượng phục vụ tốt || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Sản phẩm tốt, cấu hình đủ dùng, chất lượng ngon"
+Laptop ASUS Vivobook 15 X1504VA-NJ1969W,"Intel Core i5-1334U 1.3 GHz (12MB Cache, up to 4.6 GHz, 10 lõi, 12 luồng)",8GB DDR4 on board + 8GB DDR4 SO-DIMM,Intel Iris Xe Graphics,512GB M.2 NVMe PCIe 3.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,13.490.000₫,,
+Laptop ASUS TUF Gaming A15 FA506NF-HN005W,"AMD Ryzen™ 5 7535HS Processor 3.3GHz (19MB Cache, up to 4.55 GHz, 6 Nhân, 12 Luồng)",2 khe SO-DIMM (Nâng cấp tối đa 32GB),NVIDIA® GeForce RTX™ 2050,512GB PCIe® 4.0 NVMe™ M.2 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Tần số quét 144Hz
+Độ sáng 250nits
+Độ phủ màu: NTSC 45%, SRGB 62.5%, Adobe 47.34%
+Màn hình chống chói
+Adaptive-Sync","48WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,15.490.000₫,5 sao/ (4 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Trải nghiệm tốt || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Tôi hài lòng với dịch vụ của cellphones || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Sản phẩm rất tốt tuyệt vời || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Sản phẩm rất tối rất hài lòng"
+Laptop ASUS VivoBook 14 OLED A1405VA-KM095W,"Intel Core i5-13500H (18MB Cache, upto 4.7GHz, 12 lõi / 16 luồng)",8GB DDR4 on board + 8GB DDR4 SO-DIMM,Intel Iris Xe Graphics,512GB M.2 NVM PCIe 3.0 SSD,14 inches,2880 x 1800 pixels,"Thời gian phản hồi 0,2ms
+Độ sáng tối đa 600nits HDR
+Độ phủ màu 100% DCI-P3","50WHrs, 3-cell Li-ion",Windows 11 Home,Bạc,16.990.000₫,5 sao/ (4 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Máy này có đèn phím không nhỉ? || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | E hủy ạ do e bấm nhầm || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Máy xài ổn các tác vụ sau 2 tháng || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Trên cả tuyệt vời."
+Laptop ASUS Gaming V16 K3607VU-RP280W,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,"NVIDIA GeForce RTX 4050 (194 AI TOPs) 6GB GDDR6
+Intel Graphics",512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,22.990.000₫,,
+Laptop ASUS TUF Gaming A15 FA507RE-HN007W,AMD Ryzen 7 6800H,"2 khe cắm RAM rời, hỗ trợ nâng cấp tối đa 32GB",NVIDIA GeForce RTX 3050 Ti,"512GB M.2 NVMe™ PCIe® 3.0 SSD
+(Còn trống 1 khe M.2 hỗ trợ nâng cấp)",15.6 inches,1920 x 1080 pixels (FullHD),"Tần số quét: 144Hz
+Góc nhìn: 170
+Brightness: 250nits
+Tỷ lệ tương phản: 1000:1
+Hỗ trợ dải màu: 45%NTSC, 62.5%SRGB, 47.34%Adobe
+Màn hình chống loá
+Công nghệ: Adaptive-Sync","56WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home SL,Xám,23.490.000₫,5 sao/ (1 đánh giá),Cho em Sảng phẩm có ở long An không ạ
+Laptop ASUS Vivobook S 14 OLED M5406WA-PP071WS,"AMD Ryzen AI 9 HX 370 2.0GHz (36MB Cache, up to 5.1GHz, 12 lõi, 24 luồng)",LPDDR5X Onboard,AMD Radeon 890M Graphics,1TB M.2 NVMe PCIe 4.0 SSD (1x M.2 2280 PCIe 3.0x4),14 inches,2880 x 1800 pixels,"Độ sáng tối đa HDR 600nits
+Độ phủ màu DCI-P3 100%
+1.000.000:1
+Màn hình HDR True Black 600 ĐÃ CHỨNG NHẬN VESA
+1.07 tỷ màu
+Được PANTONE xác thực
+Màn hình bóng
+Giảm 65% ánh sáng xanh có hại","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home + OFFICE,Bạc,28.990.000₫,4.7 sao/ (3 đánh giá),"Cửa hàng không tặng kèm chuột asus không dây như hệ thống có báo || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | máy lỗi, đã được hỗ trợ 1 đổi 1 nhanh || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Tôi mua rồi còn nợ quà của tôi"
+Laptop ASUS Zenbook S 14 OLED UX5406SA-PV140WS,"Intel Core Ultra 7-258V 32GB 1.8 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 8 luồng)",LPDDR5X Onboard,Intel Arc Graphics,1TB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Thời gian phản hồi 0.2ms
+Độ sáng tối đa 500nits HDR
+Độ phủ màu 100% DCI-P3
+Display HDR True Black 500
+1.07 tỷ màu
+Giảm ánh sáng xanh 70%
+TÜV Rheinland-certified
+SGS Eye Care Display","72WHrs, 2S2P, 4-cell Li-ion","Windows 11 Home
+Microsoft Office Home & Student 2021 + Microsoft 365 Basic",Trắng,39.690.000₫,5 sao/ (1 đánh giá),"Bạn nhân viên trực giữ xe hôm đó không hỗ trợ mình dắt xe ra vào, lúc về thì mình cũng phải tự dắt xe, mình mua máy tính nên hộp máy rất to, nên việc dắt xe ra về rất khó khăn. Mình cực kì không hài lòng ở chỗ này"
+Laptop ASUS Vivobook GO 15 E1504FA-NJ454W,"AMD Ryzen 5 7520U (4 lõi / 8 luồng, 4MB cache, up to 4.3 GHz max boost)",LPDDR5 Onboard,AMD Radeon Graphics,512GB M.2 NVMe PCIe 3.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250 nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+TÜV Rheinland-certified","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,12.890.000₫,4.8 sao/ (8 đánh giá),"Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | nhân viên nhiệt tình || Loa mính tính ở dưới nghe ồ không rõ || Loa mính tính ở dưới nghe ồ không rõ || xài ok, tốt || xài ok, tốt"
+Laptop ASUS Vivobook 14 X1405VA-LY623W,"Intel Core i5-13420H 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 lõi, 12 luồng)",8GB DDR4 on board + 8GB DDR4 SO-DIMM,Intel UHD Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,15.390.000₫,,
+Laptop ASUS Zenbook 14 UX3405CA-PZ204WS,"Intel Core Ultra 9 285H 2.9 GHz (24MB Cache, up to 5.4 GHz, 16 lõi, 16 luồng)",LPDDR5X on board,Intel Arc Graphics,1TB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 500nits HDR
+Độ phủ màu 100% DCI-P3
+Gamut mapping
+HDR True Black 500
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified
+Màn hình chăm sóc mắt SGS","75WHrs, 2S2P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xanh,35.990.000₫,5 sao/ (3 đánh giá),tổng thể đẹp trong tầm giá || chưa xử dụng nhưng qua tổng thể trong tầm giá || Thời lượng pin Hơi yếu | Hiệu năng Đủ dùng | Chất lượng hiển thị của màn hình Siêu đẹp | Cpu chi 15% nhưng nong toi 90đo. Lạy luôn
+Laptop ASUS ROG Zephyrus G16 GU605CM-QR078W,"Intel Core Ultra 9 285H 2.9 GHz (24MB Cache, up to 5.4 GHz, 16 lõi, 16 luồng)",LPDDR5X 7467 Onboard,"NVIDIA GeForce RTX 5060 8GB GDDR7
+Intel Arc Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Độ sáng 500 nits (Đỉnh)
+Tỷ lệ tương phản 1.000.000:1
+Độ phủ màu DCI-P3 100%
+G-Sync
+Nebula ROG Nebula Display
+Dolby Vision HDR","90WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home,Xám,58.490.000₫,,
+Laptop ASUS Vivobook S14 OLED S5406SA-PP059WS,"Intel Core Ultra 7 258V 32GB 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 8 luồng",LPDDR5X 32GB,Intel Arc Graphics,1TB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Giảm 70% ánh sáng xanh có hại
+1.07 tỷ màu
+Display HDR True Black 600
+Gamut mapping
+Độ phủ màu 100% DCI-P3
+Độ sáng tối đa 600nits HDR","75WHrs, 4S1P, 4-cell Li-ion","Windows 11 Home
+Microsoft Office Home 2024 + Microsoft 365 Basic",Xanh,30.290.000₫,,
+Laptop ASUS VivoBook S 16 OLED S5606MA-MX051W,"Intel Core Ultra 7 155H 1.4 GHz (24MB Cache, up to 4.8 GHz, 16 lõi, 22 luồng)",LPDDR5X Onboard,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,3200 x 2000 pixel (WQHD+),"Độ sáng tối đa 600nits HDR
+Gam màu 100% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+Ánh sáng xanh ít gây hại hơn 70%
+TÜV Rheinland-certified
+1.07 tỷ màu","75WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xanh,23.490.000₫,5 sao/ (5 đánh giá),"Ko || Ko || Ko || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Quá xịn luôn. Sau 3 tháng sử dụng màng hình vẫn tươi đẹp. Pin trâu loa lớn giải trí văn phòng rất tốt || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Các anh chị tư vấn rất nhiệt tình và vui vẻ, hi vọng tương lai có tiền em sẽ ủng hộ"
+Laptop ASUS TUF Gaming F15 FX507ZC4-HN074W,"Intel Core i5-12500H (2.5 GHz, 18M Cache, up to 4.5 GHz, 12 lõi: 4 P và 8 E)",2 khe SO-DIMM (Nâng cấp tối đa 32GB),"NVIDIA GeForce RTX 3050 4GB GDDR6
+Intel Iris Xe Graphics",512GB PCIe 3.0 NVMe M.2 SSD (1 khe SSD M.2 trống nâng cấp tối đa đến 1TB),15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu: NTSC 45%, SRGB 62.50%, Adobe 47.34%
+Màn hình chống chói
+Adaptive-Sync","56WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,18.990.000₫,4.9 sao/ (9 đánh giá),"Thời lượng pin Khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Máy đẹp cấu hình khoẻ || Thời lượng pin Khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | sản phẩm dùng khá ok, bàn phím dễ dính mồ hôi tay, chơi game hơi nóng xíu || Thời lượng pin Đủ dùng | Hiệu năng Đủ dùng | Chất lượng hiển thị của màn hình Rực rỡ, sắc nét | Xài được với tôi sau này || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | trải nghiệm tuyệt vời || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Chi nhánh bến tre còn ko ạ"
+Laptop ASUS ROG Zephyrus G14 GA403WR-QS156WS,"AMD Ryzen AI 9 HX 370 2.0GHz (36MB Cache, up to 5.1GHz, 12 lõi, 24 luồng)",LPDDR5X 8000 Onboard,"NVIDIA GeForce RTX 5070 Ti 12GB GDDR7
+AMD Radeon Graphics","1TB PCIe 4.0 NVMe M.2 SSD (1 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",14 inches,2880 x 1800 pixels,"Độ sáng 500nits
+Tỷ lệ tương phản 1000000:1
+Độ phủ màu DCI-P3 100%
+G-Sync / Adaptive-Sync
+Màn hình Nebula ROG Nebula Display
+Dolby Vision HDR
+Tản nhiệt thông minh ROG","73WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,68.490.000₫,,
+Laptop ASUS Zenbook 14 UX3405CA-PZ368WS,"Intel Core Ultra 7 255H 2.0 GHz (24MB Cache, up to 5.1 GHz, 16 lõi, 16 luồng)",LPDDR5X on board,Intel Arc Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,2880 x 1800 pixels,"Thời gian phản hồi 0.2ms
+Độ sáng 400nits
+Độ sáng tối đa 500nits HDR
+Độ phủ màu 100% DCI-P3
+Gamut mapping
+HDR True Black 500
+1.07 tỷ màu
+Giảm 70% ánh sáng xanh có hại
+TÜV Rheinland-certified
+Màn hình chăm sóc mắt SGS","75WHrs, 2S2P, 4-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xanh,30.290.000₫,,
+Laptop ASUS ROG Strix G16 G615JHR-S5069W,"Intel Core i7 14650HX 2.2 GHz (30MB Cache, up to 5.2 GHz, 16 lõi, 24 luồng)","2 khe (2 x 16GB, nâng cấp tối đa 64GB)","NVIDIA GeForce RTX 5050 8GB GDDR7
+Intel UHD Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Độ sáng 500nits
+Tỷ lệ tương phản 1200:1
+Độ phủ màu DCI-P3 100%
+Màn hình chống chói
+G-Sync
+Màn hình Nebula ROG Nebula Display
+Dolby Vision HDR
+Tản nhiệt thông minh ROG","90WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,41.990.000₫,,
+Laptop ASUS ROG Zephyrus G16 GU605CR-QR107W,"Intel Core Ultra 9 285H 2.9 GHz (24MB Cache, up to 5.4 GHz, 16 lõi, 16 luồng)",Tối đa 64GB,"NVIDIA GeForce RTX 5070 Ti 12GB GDDR7
+Intel Arc Graphics","1TB PCIe 4.0 NVMe M.2 SSD (2 Khe cắm M.2 hỗ trợ SATA hoặc NVMe, tối đa 2TB)",16 inches,2560 x 1600 (WQXGA),"Độ sáng 500 nits (Đỉnh)
+Tỷ lệ tương phản 1.000.000:1
+Độ phủ màu DCI-P3 100%
+G-Sync
+Nebula ROG Nebula Display
+Dolby Vision HDR","90WHrs, 4S1P, 4-cell Li-ion
+Sạc lại từ 0-50% trong 30 phút",Windows 11 Home,Xám,72.990.000₫,,
+Laptop ASUS VivoBook Go 14 E1404FA-NK177W,"AMD Ryzen 5 7520U (4MB cache, up to 4.3 GHz, 4 lõi/8 luồng)",LPDDR5 onboard,AMD Radeon Graphics,SSD 512GB M.2 NVMe PCIe 3.0,14 inches,1920 x 1080 pixels (FullHD),"Tỉ lệ 16:9
+Độ sáng tối đa 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói
+Công nghệ LCD","42WHrs, 3S1P, Li-ion 3 cell",Windows 11 Home,Bạc,12.890.000₫,4.8 sao/ (8 đánh giá),"Tốt || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | mới mua hôm qua, máy ngon, giá tốt mình mua từ 14.490k giảm 2tr7 còn 11.790k, vì mình chỉ mua về để chủ yếu soạn PPT phục vụ cho công tác giảng dạy nên mình thấy máy này đã là OK lắm rồi, chạy nhanh, cấu hình cao, thiết kế máy cũng rất nhỏ gọn, sang trọng, di chuyển dễ dàng. Thanks Cellphones, các bạn tư vấn rât nhiệt tình, dễ thương. || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Mình không có rành về đồ điện tử nên đối với mình thì sử dụng máy này cho nhu cầu làm canva, word,... nói chung thao tác văn phòng thì phù hợp lắm rồi, nhưng mà có điểm khá buồn là màu sơn trên bề mặt máy nhanh tróc ra quá :(((. Hiện tại mình sài máy này cũng hơn 1 năm rồi á, ngoại trừ việc lúc đầu mới sài cỡ 1 tháng là ẻm tróc sơn ở rìa máy đôi chút thì hiệu năng hay màn hình đều sài ổn lắm nha. || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | Tốt. Ok được rồi || Thời lượng pin Cực khoẻ | Hiệu năng Mượt mà, đa nhiệm tốt | Chất lượng hiển thị của màn hình Siêu đẹp | chất lượng cao và tốt"
+Laptop ASUS VivoBook S14 M3407GA-SF030W,AMD Ryzen AI 7 445,DDR5 on board,AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Thời gian phản hồi 0.2ms
+Độ sáng: 300 nits
+Độ phủ màu 95% DCI-P3
+Tỷ lệ tương phản 1.000.000:1
+1.07 tỷ màu","70WHrs, 4S1P, 4-cell Li-ion",Windows 11 Home,Xám,24.790.000₫,,
+Laptop ASUS VivoBook 14 M1407GA-LY270W,"AMD Ryzen AI 7 445 ( 2.0 GHz - 4.6 GHz / 8MB / 6 nhân, 12 luồng ), GORGON POINT 6C (GPT3)",DDR5 on board,AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,14 inches,1920 x 1200 pixels (WUXGA),"Màn hình chống chói
+Độ phủ màu 45% NTSC
+Độ sáng 300nits","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,21.990.000₫,,
+Laptop ASUS VivoBook 14X OLED S3405VA-KM071W,"Intel Core i9-13900H (24MB Cache, up to 5.4GHz, 14 lõi / 20 luồng)",2 khe (8GB DDR4 on board + 8GB DDR4 SO-DIMM),Intel Iris Xe Graphics,512GB M.2 NVM PCIe 3.0 SSD,14 inches,2880 x 1800 pixels,"Độ sáng tối đa 400 nits
+Độ phủ màu DCI-P3:100%
+Tỉ lệ 16:10
+1 tỉ màu","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,22.390.000₫,5 sao/ (1 đánh giá),sản phẩm rất
+Laptop ASUS VivoBook 15X OLED S3504VA-L1227WS,"Intel Core i7-1360P (2.2 GHz, 18MB Cache, up to 5.0 GHz, 12 lõi / 16 luồng)",8GB DDR4 Onboard + 8GB DDR4 SO-DIMM,Intel Iris Xe Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Thời gian phản hồi 0.2ms
+Độ sáng 400 nits
+Độ sáng tối đa 550 nits HDR
+Độ phủ màu 100% DCI-P3
+Display HDR True Black 500
+1.07 tỷ màu
+Giảm ánh sáng xanh 70%
+TÜV Rheinland-certified","50WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,20.990.000₫,,
+Laptop ASUS ExpertBook P1 P1503CVA-C5H16-63WS,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,Intel Graphics,"512GB SSD M.2 2280 NVMe PCIe 4.0
+Khe mở rộng lưu trữ SSD",15.6 inches,1920 x 1080 pixels (FullHD),"Màn hình chống chói
+Độ phủ màu NTSC 45%
+Độ sáng 300nits","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,18.790.000₫,,
+Laptop ASUS ExpertBook B1 B1402CVA-NK0149W,"Intel Core i5-1335U (1.3GHz, 12M Cache, up to 4.6GHz, 10 lõi)",DDR4 Onboard,Intel UHD Graphics,256GB M.2 2280 NVMe PCIe 4.0 SSD,14 inches,1920 x 1080 pixels (FullHD),"LED Backlit
+Độ sáng 250nits
+Độ phủ màu NTSC: 45%
+Góc nhìn (H/V) 90/65
+Thời gian phản hồi (Typ/Max) (ms) 10/20
+Độ tương phản 500:1
+Màn hình 16:9
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Đen,11.990.000₫,,
+Laptop ASUS VivoBook 15 M1502NAQ-BQ031W,"AMD Ryzen 7 170 3.2GHz (20MB Cache, up to 4.75 GHz, 8 lõi, 16 luồng)","2 khe (8GB DDR5 on board + 8GB DDR5 SO-DIMM, Có thể nâng cấp; Cần tháo vỏ dưới/trên)",AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,19.690.000₫,,
+Laptop ASUS ExpertBook P1 P1403CVA-C5H16-63WS,"Intel Core 5 210H 2.2 GHz (12MB Cache, up to 4.8 GHz, 8 lõi, 12 luồng)",Có thể nâng cấp; Cần tháo vỏ dưới/trên,Intel Graphics,"512GB SSD M.2 2280 NVMe PCIe 4.0
+Khe mở rộng lưu trữ SSD",14 inches,1920 x 1080 pixels (FullHD),"Màn hình chống chói
+Độ phủ màu NTSC 45%
+Độ sáng 300nits","63WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic,Xám,18.790.000₫,,
+Laptop ASUS VivoBook 16 X1607CA-MB980W,"Intel Core Ultra 5 225H 1.7 GHz (18MB Cache, up to 4.9 GHz, 14 lõi, 14 luồng)",DDR5 on board,Intel Graphics,512GB M.2 NVMe PCIe 4.0 SSD,16 inches,1920 x 1200 pixels (WUXGA),"Độ sáng 300nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,20.990.000₫,,
+Laptop ASUS VivoBook 15 M1502NAQ-BQ021W,"AMD Ryzen 5 150 3.3GHz (18MB Cache, up to 4.55 GHz, 6 lõi, 12 luồng)","2 khe (8GB DDR5 on board + 8GB DDR5 SO-DIMM, Có thể nâng cấp; Cần tháo vỏ dưới/trên)",AMD Radeon Graphics,512GB M.2 NVMe PCIe 4.0 SSD,15.6 inches,1920 x 1080 pixels (FullHD),"Độ sáng 250nits
+Độ phủ màu 45% NTSC
+Màn hình chống chói","42WHrs, 3S1P, 3-cell Li-ion",Windows 11 Home,Bạc,18.590.000₫,,
