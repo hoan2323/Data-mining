@@ -3,7 +3,7 @@ import chromadb
 from difflib import SequenceMatcher
 from sentence_transformers import SentenceTransformer
 
-CHROMA_DIR           = r"C:\Users\hn745\Documents\DPM302m\projecDBM\chroma_db"
+CHROMA_DIR           = r"C:\Users\Admin\Documents\Học tập\New folder\Data-mining\chroma_db"
 COLLECTION           = "laptops"
 MODEL_NAME           = "intfloat/multilingual-e5-large"
 SIMILARITY_THRESHOLD = 0.78
@@ -210,6 +210,11 @@ def search(
             "rating"     : meta["rating"],
             "similarity" : similarity,
             "mo_ta"      : results["documents"][0][i],
+            "screen_resolution": meta.get("screen_resolution", ""),
+            "screen_panel": meta.get("screen_panel", ""),
+            "battery_wh": meta.get("battery_wh", ""),
+            "color": meta.get("color", ""),
+            "review_text": meta.get("review_text", "")
         })
 
     return output, final_filters
@@ -257,6 +262,11 @@ def lookup(
             "similarity" : sem_score,
             "final_score": final_score,
             "mo_ta"      : results["documents"][0][i],
+            "screen_resolution": meta.get("screen_resolution", ""),
+            "screen_panel": meta.get("screen_panel", ""),
+            "battery_wh": meta.get("battery_wh", ""),
+            "color": meta.get("color", ""),
+            "review_text": meta.get("review_text", "")
         })
 
     if not candidates:

@@ -3,7 +3,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
-RAW_CSV    = r"C:\Users\hn745\Documents\DPM302m\projecDBM\datasource\laptop_data_clear.csv"
+RAW_CSV    = r"C:\Users\Admin\Documents\Học tập\New folder\Data-mining\datasource\data_backup.csv"
 CHROMA_DIR = "./chroma_db"
 COLLECTION = "laptops"
 MODEL_NAME = "intfloat/multilingual-e5-large"
@@ -64,6 +64,11 @@ def save_to_chromadb(df: pd.DataFrame, embeddings: list):
             "screen_size": float(row["screen_size"]),
             "price": float(row["price"]),
             "rating": float(row["rating"]),
+            "screen_resolution": str(row.get("screen_resolution", "")),
+            "screen_panel": str(row.get("screen_panel", "")),
+            "battery_wh": str(row.get("battery_wh", "")),
+            "color": str(row.get("color", "")),
+            "review_text": str(row.get("review_text", ""))
         }
         for _, row in df.iterrows()
     ]
