@@ -3,7 +3,7 @@ import chromadb
 from difflib import SequenceMatcher
 from sentence_transformers import SentenceTransformer
 
-CHROMA_DIR           = r"C:\Users\Admin\Documents\Học tập\New folder\Data-mining\chroma_db"
+CHROMA_DIR           = r"chroma_db"
 COLLECTION           = "laptops"
 MODEL_NAME           = "intfloat/multilingual-e5-large"
 SIMILARITY_THRESHOLD = 0.78
@@ -139,6 +139,7 @@ def parse_intent(query: str) -> dict:
     return filters
 
 
+
 def build_where_filter(
     max_price  : float = None,
     min_price  : float = None,
@@ -164,7 +165,7 @@ def search(
     query      : str,
     model      : SentenceTransformer,
     collection : chromadb.Collection,
-    top_k      : int   = 5,
+    top_k      : int   = 6,
     max_price  : float = None,
     min_price  : float = None,
     min_ram    : float = None,
@@ -210,11 +211,6 @@ def search(
             "rating"     : meta["rating"],
             "similarity" : similarity,
             "mo_ta"      : results["documents"][0][i],
-            "screen_resolution": meta.get("screen_resolution", ""),
-            "screen_panel": meta.get("screen_panel", ""),
-            "battery_wh": meta.get("battery_wh", ""),
-            "color": meta.get("color", ""),
-            "review_text": meta.get("review_text", "")
         })
 
     return output, final_filters
@@ -228,7 +224,7 @@ def lookup(
     query      : str,
     model      : SentenceTransformer,
     collection : chromadb.Collection,
-    top_k      : int = 5,
+    top_k      : int = 6,
 ) -> dict | None:
     query_vector = model.encode([f"query: {query}"], normalize_embeddings=True).tolist()
 
@@ -262,11 +258,6 @@ def lookup(
             "similarity" : sem_score,
             "final_score": final_score,
             "mo_ta"      : results["documents"][0][i],
-            "screen_resolution": meta.get("screen_resolution", ""),
-            "screen_panel": meta.get("screen_panel", ""),
-            "battery_wh": meta.get("battery_wh", ""),
-            "color": meta.get("color", ""),
-            "review_text": meta.get("review_text", "")
         })
 
     if not candidates:

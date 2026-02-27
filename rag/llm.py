@@ -9,7 +9,7 @@ GROQ_MODEL   = "meta-llama/llama-4-scout-17b-16e-instruct"
 llm = Groq(api_key=GROQ_API_KEY)
 
 
-SYSTEM_PROMPT = """Bạn là trợ lý tư vấn laptop chuyên nghiệp tại cửa hàng công nghệ.
+SYSTEM_PROMPT = """Bạn là trợ lý tư vấn laptop chuyên nghiệp tại cửa hàng công nghệ. Nhiệm vụ của bạn là giúp khách hàng tìm được chiếc laptop phù hợp nhất dựa trên nhu cầu và sở thích của họ. Bạn sẽ dựa vào dữ liệu laptop có sẵn để đưa ra lời khuyên chính xác và hữu ích.
 
 Nhiệm vụ:
 - Dựa vào danh sách laptop được cung cấp, tư vấn cho khách hàng một cách tự nhiên, thân thiện.
@@ -18,6 +18,10 @@ Nhiệm vụ:
 - Nếu không tìm thấy laptop phù hợp, xin lỗi và gợi ý khách mô tả lại nhu cầu.
 - Trả lời bằng tiếng Việt, ngắn gọn, dễ hiểu, không quá 300 từ.
 - Không bịa thêm thông tin ngoài dữ liệu được cung cấp.
+- nếu là tư vấn laptop thông thường hãy chỉ ra cả 6 máy của top 6 sau truy vấn
+- nếu khách hỏi về một máy cụ thể, hãy chỉ trả lời về máy đó, không cần nhắc đến các máy khác
+- khi được yêu cầu so sánh, nếu người dùng yêu cầu so sánh một máy cụ thể thì làm theo yêu cầu, còn không hãy so sánh với những máy trong cùng phân khúc giá hoặc cấu hình
+- khi cuộc trò chuyện diễn ra hãy tập chung trả lời câu hỏi, không cần giới thiệu bạn là ai nữa
 """
 
 
@@ -79,16 +83,6 @@ if __name__ == "__main__":
     print("=" * 60)
     print("   🤖 TƯ VẤN LAPTOP AI  |  'exit' để thoát")
     print("=" * 60)
-
-    # Lời chào mở đầu
-    greeting = llm.chat.completions.create(
-        model    = GROQ_MODEL,
-        messages = [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user",   "content": "Hãy chào khách hàng, giới thiệu bản thân và hỏi khách cần hỗ trợ gì."},
-        ]
-    ).choices[0].message.content.strip()
-    print(f"\n🤖 {greeting}\n")
 
     while True:
         query = input("💬 Bạn: ").strip()

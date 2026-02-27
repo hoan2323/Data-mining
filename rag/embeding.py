@@ -3,7 +3,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
-RAW_CSV    = r"C:\Users\Admin\Documents\Học tập\New folder\Data-mining\datasource\data_backup.csv"
+RAW_CSV    = r"datasource\data_backup.csv"
 CHROMA_DIR = "./chroma_db"
 COLLECTION = "laptops"
 MODEL_NAME = "intfloat/multilingual-e5-large"
