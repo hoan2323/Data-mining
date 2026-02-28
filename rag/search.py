@@ -89,7 +89,7 @@ def is_lookup(query: str) -> bool:
 
 
 def parse_intent(query: str) -> dict:
-    q       = query.lower()
+    q = query.lower()
     filters = {}
 
     m = re.search(r"(?:dưới|<|max|tối đa|không quá)\s*(\d+(?:[.,]\d+)?)\s*(tr(?:iệu)?|m(?:iệu)?)?", q)
