@@ -10,8 +10,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))          # → DATA-MINING
 FOLDER_C = os.path.abspath(os.path.join(BASE_DIR, "../rag"))   # → DATA-MINING/rag
 
 sys.path.insert(0, FOLDER_C)
-from search import load_retriever, search, lookup, is_direct_name, is_lookup
-from llm import ask_llm, format_search_context, format_lookup_context
+from search import load_retriever, search, lookup, is_direct_name, is_lookup # pyright: ignore[reportMissingImports]
+from llm import ask_llm, format_search_context, format_lookup_context # type: ignore
 
 print("Đang khởi động giao diện, kết nối Database và LLM...")
 embed_model, vector_db = load_retriever()
