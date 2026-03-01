@@ -17,25 +17,24 @@ print("Đang khởi động giao diện, kết nối Database và LLM...")
 embed_model, vector_db = load_retriever()
 
 # =========================
-# RENDER KẾT QUẢ RA HTML
+# BƯỚC 1: RENDER KẾT QUẢ RA HTML
 # =========================
 def render_html_results(results):
     if not results:
-        return "" # Nếu không có kết quả, trả về rỗng để nhường chỗ cho Chatbot
+        return "" 
 
     html_output = '<div class="result-grid">'
     
     for r in results:
-        # Lấy dữ liệu cơ bản
         price_fmt = "{:,.0f}".format(r.get('price', 0)).replace(",", ".")
         name = r.get('name', 'Unknown')
         cpu = r.get('cpu', 'Đang cập nhật')
         gpu = r.get('gpu', 'Đang cập nhật')
         ram = f"{r.get('ram', '')}GB"
         storage = f"{r.get('storage', '')}GB"
+        sim_score = r.get('similarity', 0)
         desc = str(r.get('mo_ta', 'Chưa có mô tả')).replace('\n', '<br>')
 
-        # Lấy các thông số chi tiết mới
         screen_size = r.get('screen_size', 'Đang cập nhật')
         screen_resolution = r.get('screen_resolution', 'Đang cập nhật')
         screen_panel = r.get('screen_panel', 'Đang cập nhật')
@@ -46,15 +45,13 @@ def render_html_results(results):
         # XỬ LÝ ĐÁNH GIÁ
         review_text_raw = str(r.get('review_text', ''))
         reviews_html = ""
-        
         if review_text_raw.lower() in ['nan', 'none', 'null', ''] or not review_text_raw:
-            reviews_html = "<div class='review-item' style='border-left-color: #64748b; font-style: italic;'>Chưa có đánh giá chi tiết từ người dùng.</div>"
+            reviews_html = "<div class='review-item' style='border-left-color: #565869; font-style: italic; color: #888;'>Chưa có đánh giá chi tiết từ người dùng.</div>"
         else:
             reviews = [rev.strip() for rev in review_text_raw.split('||') if rev.strip()]
             for rev in reviews:
                 reviews_html += f"<div class='review-item'><i class='fas fa-user-circle'></i> {rev}</div>"
 
-        # TẠO GIAO DIỆN HTML CARD
         card_html = f"""
         <div class="card-wrapper">
             <div class="laptop-card">
@@ -65,10 +62,14 @@ def render_html_results(results):
                 <div class="badges">
                     <span class="badge badge-cpu"><i class="fas fa-microchip"></i> {cpu}</span>
                     <span class="badge badge-gpu"><i class="fas fa-gamepad"></i> {gpu}</span>
+                    <span class="badge badge-similarity">⭐ {sim_score}</span>
+                </div>
+                <div class="specs-row">
+                    <div class="spec-item"><i class="fas fa-memory"></i> <span>{ram}</span></div>
+                    <div class="spec-item"><i class="fas fa-hdd"></i> <span>{storage}</span></div>
                 </div>
                 
                 <div class="card-detail" style="display: none;">
-                    
                     <div class="detail-section">
                         <div class="detail-title">⚙️ Cấu hình chi tiết</div>
                         <ul class="specs-list">
@@ -81,15 +82,13 @@ def render_html_results(results):
                             <li><b>Màu sắc:</b> <span>{color}</span></li>
                         </ul>
                     </div>
-                    
                     <div class="detail-section">
                         <div class="detail-title">⭐ Đánh giá ({rating} Sao)</div>
                         <div class="reviews-container">
                             {reviews_html}
                         </div>
                     </div>
-                    
-                </div>
+                    </div>
                 <button class="view-detail-btn" onclick="toggleDetail(this)">Xem chi tiết</button>
             </div>
         </div>
@@ -100,7 +99,7 @@ def render_html_results(results):
     return html_output
 
 # =========================
-# BỘ XỬ LÝ TRÍ NHỚ TỪ KHÓA
+# BƯỚC 2: BỘ XỬ LÝ TRÍ NHỚ TỪ KHÓA
 # =========================
 def smart_combine(memory, new_query):
     if not memory: return new_query
@@ -131,63 +130,90 @@ def smart_combine(memory, new_query):
     return re.sub(r'\s+', ' ', f"{mem} {new_query}".strip())
 
 # =========================
-# HÀM CHAT TỔNG 
+# BƯỚC 3: HÀM CHAT TỔNG (ĐÃ TÍCH HỢP SO SÁNH)
 # =========================
 def chat_logic(new_query, memory, chat_history, ui_history):
     if not new_query.strip():
-        return "", memory, chat_history, ui_history, "", gr.update(), gr.update()
+        return gr.skip()
     
+    def do_search(query):
+        query_lower = query.lower()
+        
+        # --- TÍNH NĂNG MỚI: XỬ LÝ LỆNH SO SÁNH ---
+        if "so sánh" in query_lower:
+            # Dùng Regex để tách lấy tên 2 máy (VD: so sánh máy A và máy B / với máy B / - máy B)
+            match = re.search(r"so sánh\s+(.*?)\s+(?:và|với|-)\s+(.*)", query_lower)
+            if match:
+                laptop1_name = match.group(1).strip()
+                laptop2_name = match.group(2).strip()
+                
+                # Gọi search riêng rẽ cho từng máy (lấy top 1 máy chuẩn nhất cho mỗi tên)
+                res1, _ = search(laptop1_name, embed_model, vector_db, top_k=1)
+                res2, _ = search(laptop2_name, embed_model, vector_db, top_k=1)
+                
+                combined_results = []
+                if res1: combined_results.extend(res1)
+                if res2: combined_results.extend(res2)
+                
+                # Nếu tìm thấy ít nhất 1 trong 2 máy, bung UI hiển thị
+                if combined_results:
+                    return True, render_html_results(combined_results), format_search_context(combined_results)
+            
+            # Fallback: Nếu gõ chữ "so sánh" nhưng không đúng form "A và B"
+            res_list, _ = search(query, embed_model, vector_db, top_k=2)
+            if res_list:
+                return True, render_html_results(res_list), format_search_context(res_list)
+
+        # --- TÌM ĐÍCH DANH 1 MÁY ---
+        elif is_direct_name(query) or is_lookup(query):
+            res = lookup(query, embed_model, vector_db)
+            if res:
+                return True, render_html_results([res]), format_lookup_context(res)
+                
+        # --- TÌM KIẾM NHU CẦU BÌNH THƯỜNG ---
+        else:
+            res_list, _ = search(query, embed_model, vector_db, top_k=6)
+            if res_list:
+                return True, render_html_results(res_list), format_search_context(res_list)
+                
+        return False, "", "Không tìm thấy laptop phù hợp."
+
     combined_query = smart_combine(memory, new_query)
-    has_results = False
-    html_res = ""
-    llm_context = ""
+    has_results, html_res, llm_context = do_search(combined_query)
+    new_memory = combined_query
     
-    if is_direct_name(combined_query) or is_lookup(combined_query):
-        result = lookup(combined_query, embed_model, vector_db)
-        if result:
-            has_results = True
-            html_res = render_html_results([result])
-            llm_context = format_lookup_context(result)
+    # Nếu kết hợp memory không ra, thử lại với query mới nguyên
+    if not has_results and memory:
+        has_results, html_res, llm_context = do_search(new_query)
+        if has_results:
+            new_memory = new_query
         else:
-            llm_context = "Không tìm thấy thông tin máy."
-    else:
-        results, used_filters = search(combined_query, embed_model, vector_db, top_k=6)
-        if results:
-            has_results = True
-            html_res = render_html_results(results)
-            llm_context = format_search_context(results)
-        else:
-            llm_context = "Không tìm thấy laptop phù hợp."
-
-    new_memory = combined_query if has_results else memory
+            new_memory = memory
     
-    # Quyết định trạng thái của CSS thông qua Python Native
-    if has_results:
-        res_col_update = gr.update(elem_classes=["results-col-show"])
-        chat_col_update = gr.update(elem_classes=["chat-col-side"])
-    else:
-        res_col_update = gr.update(elem_classes=["results-col-hidden"])
-        chat_col_update = gr.update(elem_classes=["chat-col-center"])
-
     bot_response = ask_llm(new_query, llm_context, chat_history)
 
     chat_history.append({"user": new_query, "assistant": bot_response})
+    
+    # ======= ĐÃ FIX LỖI GRADIO 6.0: TRẢ VỀ DẠNG ROLE / CONTENT =======
     ui_history.append({"role": "user", "content": new_query})
     ui_history.append({"role": "assistant", "content": bot_response})
 
-    return html_res, new_memory, chat_history, ui_history, "", res_col_update, chat_col_update
+    # ĐIỀU KHIỂN GIAO DIỆN BẰNG PYTHON
+    if has_results:
+        res_col_update = gr.update(visible=True)
+        chat_col_update = gr.update(elem_classes=["chat-col", "side"])
+    else:
+        res_col_update = gr.update(visible=False)
+        chat_col_update = gr.update(elem_classes=["chat-col", "center"])
+
+    hero_update = gr.update(visible=False)
+    chatbot_update = gr.update(visible=True)
+    clear_btn_update = gr.update(visible=True)
+
+    return html_res, new_memory, chat_history, ui_history, "", res_col_update, chat_col_update, hero_update, chatbot_update, clear_btn_update
 
 # =========================
-# HÀM RESET CHAT
+# HÀM RESET
 # =========================
-def reset_chat():
-    default_msg = [{"role": "assistant", "content": "Xin chào! Mình là trợ lý AI thông minh. Mình có thể giúp gì cho việc tìm kiếm Laptop của bạn?"}]
-    return (
-        "", 
-        "", 
-        [], 
-        default_msg, 
-        "", 
-        gr.update(elem_classes=["results-col-hidden"]), 
-        gr.update(elem_classes=["chat-col-center"])
-    )
+def reset_all():
+    return "", "", [], [], "", gr.update(visible=False), gr.update(elem_classes=["chat-col", "center"]), gr.update(visible=True), gr.update(visible=False), gr.update(visible=False)
