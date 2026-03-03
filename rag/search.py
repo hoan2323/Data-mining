@@ -6,8 +6,8 @@ from sentence_transformers import SentenceTransformer
 CHROMA_DIR           = r"chroma_db"
 COLLECTION           = "laptops"
 MODEL_NAME           = "intfloat/multilingual-e5-large"
-SIMILARITY_THRESHOLD = 0.78
-LOOKUP_THRESHOLD     = 0.7
+SIMILARITY_THRESHOLD = 0.75
+LOOKUP_THRESHOLD     = 0.6
 
 LOOKUP_KEYWORDS = [
     "thông tin", "tra cứu", "cho tôi biết", "cho mình biết",
@@ -165,7 +165,7 @@ def search(
     query      : str,
     model      : SentenceTransformer,
     collection : chromadb.Collection,
-    top_k      : int   = 6,
+    top_k      : int   = 10,
     max_price  : float = None,
     min_price  : float = None,
     min_ram    : float = None,
@@ -199,19 +199,23 @@ def search(
             continue
         meta = results["metadatas"][0][i]
         output.append({
-            "rank"       : i + 1,
-            "name"       : meta["name"],
-            "brand"      : meta["brand"],
-            "cpu"        : meta["cpu"],
-            "ram"        : meta["ram"],
-            "gpu"        : meta["gpu"],
-            "storage"    : meta["storage"],
-            "screen_size": meta["screen_size"],
-            "price"      : meta["price"],
-            "rating"     : meta["rating"],
-            "similarity" : similarity,
-            "mo_ta"      : results["documents"][0][i],
-        })
+        "rank"  : i + 1,
+        "name"  : meta["name"],
+        "brand" : meta.get("brand", "Đang cập nhật"), 
+        "cpu"   : meta["cpu"],
+        "ram"   : meta["ram"],
+        "gpu"   : meta["gpu"],
+        "storage"          : meta["storage"],
+        "screen_size"      : meta["screen_size"],
+        "screen_resolution": meta["screen_resolution"],
+        "screen_panel"     : meta["screen_panel"],
+        "battery_wh"       : meta["battery_wh"],
+        "color"            : meta["color"],
+        "price"            : meta["price"],
+        "rating"           : meta["rating"],
+        "similarity"       : similarity,
+        "mo_ta"            : results["documents"][0][i],  
+    })
 
     return output, final_filters
 
@@ -224,7 +228,7 @@ def lookup(
     query      : str,
     model      : SentenceTransformer,
     collection : chromadb.Collection,
-    top_k      : int = 6,
+    top_k      : int = 10,
 ) -> dict | None:
     query_vector = model.encode([f"query: {query}"], normalize_embeddings=True).tolist()
 
@@ -253,6 +257,10 @@ def lookup(
             "gpu"        : meta["gpu"],
             "storage"    : meta["storage"],
             "screen_size": meta["screen_size"],
+            "screen_resolution": meta["screen_resolution"],
+            "screen_panel"     : meta["screen_panel"],
+            "battery_wh"      : meta["battery_wh"],
+            "color"           : meta["color"],
             "price"      : meta["price"],
             "rating"     : meta["rating"],
             "similarity" : sem_score,
@@ -282,6 +290,9 @@ def print_lookup_card(r: dict):
     print(f"  Màn hình : {r['screen_size']} inch")
     print(f"  Giá      : {r['price']:,.0f} VNĐ")
     print(f"  Rating   : {r['rating']}/5")
+    print(f"  Màn hình : {r['screen_resolution']} | {r['screen_panel']}")
+    print(f"  Pin      : {r['battery_wh']} Wh")
+    print(f"  Màu sắc  : {r['color']}")
     print(f"\n  Mô tả:\n  {r['mo_ta']}")
     print("=" * 60)
 
@@ -310,7 +321,7 @@ if __name__ == "__main__":
                 print("Không tìm thấy máy phù hợp hoặc câu hỏi không liên quan đến laptop.")
 
         else:
-            results, used_filters = search(query, model, collection, top_k=5)
+            results, used_filters = search(query, model, collection, top_k=10)
             mode = "Hybrid" if used_filters else "🔵 Semantic"
             print(f"\n{mode}  |  Filters: {used_filters or 'none'}")
             print("=" * 60)
